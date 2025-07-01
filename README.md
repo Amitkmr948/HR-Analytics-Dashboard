@@ -1,4 +1,6 @@
 # HR-Analytics-Dashboard-Power BI
+
+## Dashboard Active Link: https://app.powerbi.com/view?r=eyJrIjoiZjRkODE0NWItYmExNi00ZjE0LWIyMjUtZDhiNGY3ZDY0M2Y4IiwidCI6Ijg0MWU5OTFmLTE3MzAtNDMzZi04MmJhLWVhNzg5NTAwNGZmYSJ9
 ## Overview
 ### An interactive HR Analytics Dashboard built using Power BI and Microsoft Excel to analyze and visualize key HR metrics across departments like Human Resources, Sales, and Research & Development.This project provides critical insights into employee demographics, attrition patterns, salary distribution, education background, and more to help HR professionals make informed, data-driven decisions.
 
