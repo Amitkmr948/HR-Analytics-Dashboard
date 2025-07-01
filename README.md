@@ -17,5 +17,5 @@
 - MS Excel	
 - DAX	For
 
-![Dashboard Screenshot](./assets/Screenshot.png)
+![Dashboard Screenshot](https://github.com/Amitkmr948/HR-Analytics-Dashboard/blob/2cccd229b4db88a6ff1c36ce8ce4f4c3ee1e9e79/Assets/HR-Dashboard_ss.png)
 
